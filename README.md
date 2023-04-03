@@ -2,8 +2,6 @@
 
 > A janky python script to rotate Macro Deck's existing profile
 
-[TOC]
-
 ## ZH/中文
 
 因为Macro Deck在手机/平板上使用时，若屏幕发生旋转，则会将整个界面转过去，导致大量空间浪费，所以整了个Python程序来生成一个和已有的预设相同但是将布局旋转90度的新预设
